@@ -1,5 +1,5 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
-let url = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+let url = 'https://telegra.ph/file/040c3853bd9aa310915d4.jpg'
 let text = `━━ꕥ〔 *𝚂𝙴𝚆𝙰 & 𝙿𝚁𝙴𝙼𝙸𝚄𝙼* 〕ꕥ━⬣
 
 ┏━ꕥ〔 𝙷𝙰𝚁𝙶𝙰 𝚂𝙴𝚆𝙰 〕
@@ -8,7 +8,6 @@ let text = `━━ꕥ〔 *𝚂𝙴𝚆𝙰 & 𝙿𝚁𝙴𝙼𝙸𝚄𝙼* 〕�
 ┃✾ 30 ʜᴀʀɪ 7ᴋ / ɢʀᴏᴜᴘ
 ┃✾ 45 ʜᴀʀɪ 10,5ᴋ / ɢʀᴏᴜᴘ
 ┃✾ 60 ʜᴀʀɪ 14ᴋ / ɢʀᴏᴜᴘ
-┃✾ ᴘᴇʀᴍᴀɴᴇɴ 30ᴋ / ɢʀᴏᴜᴘ 
 ┃
 ┗━━ꕥ *${author}* ꕥ━⬣
 
@@ -38,7 +37,7 @@ let text = `━━ꕥ〔 *𝚂𝙴𝚆𝙰 & 𝙿𝚁𝙴𝙼𝙸𝚄𝙼* 〕�
 ┗━━ꕥ *${author}* ꕥ━⬣
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Klick untuk berlangganan', url: 'https://wa.me/6288279268363?text=Hallo admin, saya tertarik untuk menyewa bot yuki adisty'}},
+    {index: 1, urlButton: {displayText: 'Klick untuk berlangganan', url: 'https://wa.me/6282261065144?text=Hallo admin, saya tertarik untuk menyewa bot Fin Md'}},
     {index: 4, quickReplyButton: {displayText: 'Owner', id: '.owner'}},
 ]
 let tm = {
