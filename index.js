@@ -21,7 +21,7 @@ say('KingOfBear', {
   align: 'center',
   colors: ['red', 'magenta']
 })
-say(`⧻ YukiBot2022 By @KingOfBear`, { 
+say(`⧻ Fin Md2022 By @Fin Ofc`, { 
   font: 'console',
   align: 'center',
   colors: ['red', 'magenta']
